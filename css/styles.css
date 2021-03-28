@@ -118,9 +118,10 @@ section {
 .fondo2 h2 {
   display: flex;
   padding: 10px;
-  font-size: 30px;
+  font-size: 40px;
   justify-content: center;
-  font-family: 'Josefin Slab', serif;
+  color: #00b2ff;
+  font-family: 'Nunito', sans-serif;
 }
 
 .zonas {
@@ -128,7 +129,7 @@ section {
   text-align: center;
   font-size: 25px;
   padding: 0px 10% 10px 10%;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Josefin Slab', serif;
 }
 
 /* barra de datos */
