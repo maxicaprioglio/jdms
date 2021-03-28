@@ -61,8 +61,8 @@ section {
 
 .contenedor-prod {
   border-radius: 8px;
-  height: 160px;
-  width: 160px;
+  height: 150px;
+  width: 150px;
   margin: 10px;
   overflow: hidden;
   box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5);
@@ -138,7 +138,7 @@ section {
   background-color: #6c6c6c;
   color: black;
   justify-content: center;
-  padding: 20px 0px 60px 0px;
+  padding: 20px 0px 50px 0px;
   width: 100%;
   display: flex;
   font-size: 16px;
@@ -173,7 +173,7 @@ footer {
   display: flex;
   position: fixed;
   bottom: 0;
-  padding: 10px 10px;
+  padding: 5px 5px;
   align-items: center;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
