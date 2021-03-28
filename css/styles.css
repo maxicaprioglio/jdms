@@ -30,11 +30,10 @@ header p {
 }
 
 /* arranque */
+
 section {
-  background-color: rgb(236, 236, 236);
-
+  background-color: rgb(236, 236, 236)
 }
-
 .primertexto,
 .prorrogo {
   color: black;
@@ -48,10 +47,10 @@ section {
 .contenedor {
   width: 100%;
   padding: 10px;
-  background-color: rgb(224, 224, 224);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  background-color: rgb(224, 224, 224);
 }
 
 .estructura {
@@ -109,11 +108,9 @@ section {
 
 
 /* niidea */
-
 .fondo2 {
   background-color: rgb(224, 224, 224);
 }
-
 
 .fondo2 h2 {
   display: flex;
@@ -131,6 +128,41 @@ section {
   padding: 0px 10% 10px 10%;
   font-family: 'Josefin Slab', serif;
 }
+
+/* servicios */
+
+.servicios {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  font-size: 16px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  
+  justify-content: center;
+
+}
+h3 {
+  width: 50%;
+  text-align: end;
+  margin-right: 20px;
+}
+.servinfo {
+  width: 50%;
+display: flex;
+flex-direction: column;
+}
+.servicios2 {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  font-size: 16px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  
+  justify-content: center;
+  background-color: rgb(224, 224, 224);
+}
+
+
 
 /* barra de datos */
 
