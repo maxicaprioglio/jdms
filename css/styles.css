@@ -142,12 +142,12 @@ section {
 
 }
 h3 {
-  width: 50%;
+  width: 40%;
   text-align: end;
   margin-right: 20px;
 }
 .servinfo {
-  width: 50%;
+  width: 60%;
 display: flex;
 flex-direction: column;
 }
