@@ -102,9 +102,6 @@ section {
   font-size: 25px;
 }
 
-.caja-estructura:hover p {
-  color: yellow;
-}
 
 
 /* niidea */
@@ -137,9 +134,7 @@ section {
   display: flex;
   font-size: 16px;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  
   justify-content: center;
-
 }
 .serviempresa {
   width: 50%;
@@ -150,8 +145,6 @@ section {
   flex-direction: column;
   justify-content: space-between;
   border-right: black 5px solid;
-  
-
 }
 .servinfo {
   width: 50%;
@@ -167,7 +160,7 @@ flex-direction: column;
 .datos {
   background-color: #6c6c6c;
   color: black;
-  padding: 20px 0px 50px 0px;
+  padding-bottom: 50px;
   width: 100%;
   display: flex;
   font-size: 16px;
