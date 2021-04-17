@@ -160,7 +160,7 @@ flex-direction: column;
 .datos {
   background-color: #6c6c6c;
   color: black;
-  padding-bottom: 50px;
+  padding-bottom: 70px;
   width: 100%;
   display: flex;
   font-size: 16px;
@@ -198,7 +198,7 @@ footer {
   display: flex;
   position: fixed;
   bottom: 0;
-  padding: 5px 15px;
+  padding: 5px 15px 20px 15px;
   align-items: center;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
